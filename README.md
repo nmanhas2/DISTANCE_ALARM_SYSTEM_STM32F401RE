@@ -2,6 +2,7 @@
 A mini security system I made using the STM32F401RE MCU, the HC-SR04 Ultrasonic Sensor, a piezo buzzer, and an I2C LCD display
 
 Datasheet for HC-SR04: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+
 Datasheet for buzzer: https://product.tdk.com/en/system/files?file=dam/doc/product/sw_piezo/sw_piezo/piezo-buzzer/catalog/piezoelectronic_buzzer_ps_en.pdf
 Datasheet for I2C LCD display: https://www.orientdisplay.com/wp-content/uploads/2019/10/AMC0802BR-B-Y6WFDY-I2C.pdf
 
