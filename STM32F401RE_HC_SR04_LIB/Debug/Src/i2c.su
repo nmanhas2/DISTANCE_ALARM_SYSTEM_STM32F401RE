@@ -1,0 +1,7 @@
+../Src/i2c.c:41:6:i2c_init	16	static
+../Src/i2c.c:109:6:i2c_start	8	static
+../Src/i2c.c:124:6:i2c_write	8	static
+../Src/i2c.c:145:6:i2c_send_address	16	static
+../Src/i2c.c:160:6:i2c_stop	8	static
+../Src/i2c.c:170:6:i2c_burst_write	8	static
+../Src/i2c.c:197:6:i2c_gpio_init	24	static

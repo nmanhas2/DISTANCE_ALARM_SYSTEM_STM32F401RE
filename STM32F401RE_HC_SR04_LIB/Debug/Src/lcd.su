@@ -1,0 +1,2 @@
+../Src/lcd.c:30:6:lcd_init	24	static
+../Src/lcd.c:65:6:lcd_write	32	static
