@@ -12,7 +12,7 @@ Essentially, a state machine was created based on the HCSR-04 datasheet, which i
 
 Once the entire echo has been complete, the distance will be calculated based on the timer ticks as mentioned, which will then be displayed on the LCD screen whenever a new distance is captured, while also displaying the measurement via UART communication.
 
-The alarm (piezo buzzer) activates when an object of < 10CM is detected, which turns a timer that activates a PWM on, thus causing the buzzer to click at a rate of about 13Hz.
+The alarm (piezo buzzer) activates when an object distance of < 10CM is detected, which turns a timer that activates a PWM on, thus causing the buzzer to click at a rate of about 13Hz.
 
 
 
