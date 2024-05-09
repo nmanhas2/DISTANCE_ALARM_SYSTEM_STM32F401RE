@@ -1,6 +1,8 @@
 # DISTANCE_ALARM_SYSTEM_STM32F401RE
 A mini security system I made using the STM32F401RE MCU, the HC-SR04 Ultrasonic Sensor, a piezo buzzer, and an I2C LCD display. All libraries were developed by myself, and can keep seen here: https://github.com/nmanhas2/LIBRARIES_STM32F401, you'll need to follow the instructions for adding the chip headers in that link.
 
+Video Demo: https://www.youtube.com/shorts/Wgn61qhm3fI
+
 Datasheet for HC-SR04: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 Datasheet for buzzer: https://product.tdk.com/en/system/files?file=dam/doc/product/sw_piezo/sw_piezo/piezo-buzzer/catalog/piezoelectronic_buzzer_ps_en.pdf
